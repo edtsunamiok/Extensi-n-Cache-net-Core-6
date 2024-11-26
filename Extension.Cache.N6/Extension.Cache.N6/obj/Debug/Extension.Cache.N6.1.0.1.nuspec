@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Extension.Cache.N6</id>
+    <version>1.0.1</version>
+    <title>Microsoft.Extension.Cache.N6</title>
+    <authors>Extension.Cache.N6</authors>
+    <description>Interfaz que permite almacenar en cache colecciones de datos por tiempo parametrizable</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.EntityFrameworkCore.InMemory" version="7.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\NG\Extension.Cache.N6\Extension.Cache.N6\bin\Debug\net6.0\Extension.Cache.N6.dll" target="lib\net6.0\Extension.Cache.N6.dll" />
+  </files>
+</package>

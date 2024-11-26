@@ -1,0 +1,12 @@
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\bin\Debug\net6.0\Extension.Cache.N6.deps.json
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\bin\Debug\net6.0\Extension.Cache.N6.dll
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\bin\Debug\net6.0\Extension.Cache.N6.pdb
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.csproj.AssemblyReference.cache
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.GeneratedMSBuildEditorConfig.editorconfig
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.AssemblyInfoInputs.cache
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.AssemblyInfo.cs
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.csproj.CoreCompileInputs.cache
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.dll
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\refint\Extension.Cache.N6.dll
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\Extension.Cache.N6.pdb
+C:\NG\Extension.Cache.N6\Extension.Cache.N6\obj\Debug\net6.0\ref\Extension.Cache.N6.dll
